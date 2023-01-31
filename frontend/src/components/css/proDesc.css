@@ -1,0 +1,65 @@
+
+.main-dsc{
+    padding: 0 50px;
+}
+
+
+.container-dsc{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap:30px;
+   
+    
+}
+.container-dsc .img-dsc img{
+    width: 460px;
+    height: 400px;
+
+}
+.add-to-card-price , .add-to-card-status,.add-to-card-qty{
+    justify-content: space-between;
+    display: flex;
+}
+
+.add-to-card-qty {
+    height: 30px;
+   
+}
+.add-to-card-qty p {
+    margin-top: -1px;
+}
+.details-dsc{
+    text-align: start;
+}
+
+.add-to-card{
+    padding: 20px;
+    height: 230px;
+    width: 230px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.ad-to-card-btn button{
+    width: 230px;
+    text-align: center;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;  
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+}
+.go-back-home-btn{
+    
+  
+    text-align: start;
+}
+.go-back-home-btn button{ 
+    margin: 20px 0;
+    text-align: center;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;  
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+}

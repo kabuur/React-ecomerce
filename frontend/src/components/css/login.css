@@ -1,0 +1,43 @@
+
+
+
+
+.main-login .login{
+    text-align: start;
+    margin: 120px;
+    width: 300px;
+    padding: 30px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.main-login .login input{
+    margin: 10px 0;
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid black;
+
+}
+.main-login .login button{
+    background-color: blue;
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.main-login .login h4{
+    color: blue;
+    
+    font-weight: bold;
+    text-align: center;
+}
+.main-login  p{
+    color: red;
+}
+.reg{
+    text-align: end;
+    color: red;
+    text-decoration: underline;
+    
+}
