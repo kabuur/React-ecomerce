@@ -1,10 +1,10 @@
 ## 1 kow adoo kujiro     \full  soodaji 
-            **npm install**
+            npm install
 ##  2 waxaad gashaa frontend,  
 ##       si aad ugasho  qor 
-        **cd frontend**
+        cd frontend
 ##  3 kadib step 2  /frontend >  waxaad so dijisaa node_modules si aad usodajisid qor 
-        **npm install**
+        npm install
 
 
 
@@ -19,7 +19,7 @@
 
 
 ##  kadib run gareey serverkaaga si aad u rangareeso terminalka adookajooga \full> kuqor sidaani
-        **npm run server**
+        npm run server
 ##      markaad rangareeso haduusan error kuqabsanin waxaa kusobixi doono 
         http://localhost:8000
         connected 
@@ -47,14 +47,14 @@
 
 ##    waa in aan rangarenaa backendhigeena iyo frontendhigeena 
 ##    si aad u rangareeso backendigaaga waxaa qortaa adoo kajooga terminaalka /full> 
-    **npm run server**:   
+    npm run server
 ##    a sigoo rangareesnenin backendhiga ha ranarangarenin hadaad ran gareesidna kuuma so bandhigi doono products 
 
 ##    ha xirin terminalka aad ku rangaresay backendhiga waxaad furtaa terminaalkalr si aad u furto terminalka dhinaca midig qeebta kore calaamada plaska kuqoran click sii 
 
 ##   marka aan rangareno backendhiga waa in aan rangarenaa frontendhigeena  si aan urangareeno frontendhi waa in aan galnaa fronendhiga si aad ugasho kuqor new terminalka aad --
 ##   sofurtay  cd frontend  kabib qor 
-        ** npm start**
+        npm start
 
 
 
